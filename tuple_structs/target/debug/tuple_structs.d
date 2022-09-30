@@ -1,0 +1,1 @@
+C:\Users\hectorg\Documents\projects\rust_lang\rust_lang_chapter5\tuple_structs\target\debug\tuple_structs.exe: C:\Users\hectorg\Documents\projects\rust_lang\rust_lang_chapter5\tuple_structs\src\main.rs

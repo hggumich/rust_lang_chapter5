@@ -1,0 +1,1 @@
+C:\Users\hectorg\Documents\projects\rust_lang\rust_lang_chapter5\rectangles_with_tuples\target\debug\rectangles_with_tuples.exe: C:\Users\hectorg\Documents\projects\rust_lang\rust_lang_chapter5\rectangles_with_tuples\src\main.rs

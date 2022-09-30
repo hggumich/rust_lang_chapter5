@@ -1,0 +1,1 @@
+C:\Users\hectorg\Documents\projects\rust_lang\rust_lang_chapter5\rectangles_with_derived_traits\target\debug\rectangles_with_derived_traits.exe: C:\Users\hectorg\Documents\projects\rust_lang\rust_lang_chapter5\rectangles_with_derived_traits\src\main.rs
